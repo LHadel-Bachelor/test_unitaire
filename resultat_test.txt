@@ -1,0 +1,9 @@
+
+1er test 
+resultat attendu = 10
+2eme test
+resultat attendu = -6
+3eme test
+resultat attendu =  0
+4eme test
+resultat attendu = not a number
